@@ -4,7 +4,7 @@
 from zipfile import ZipFile
 import os
 
-dirPath = "/Users/micah_oltmann/Desktop/EternalLoop/"
+dirPath = "/Users/x/Desktop/EternalLoop/"
 file_name_original = "EternalLoop.zip"
 file_name_original_path = dirPath + file_name_original
 file_name_next = ""
