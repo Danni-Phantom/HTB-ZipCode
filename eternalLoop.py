@@ -34,18 +34,3 @@ while ((os.path.basename(temp[1])) == ".zip"):
         print ("file_name_next: " + file_name_next)
         print ("next_passsword: " + next_passsword)
         zip.close()
-
-
-
-    # file_name_original = file_name_next
-    #
-    # print("file_name_original:  " + file_name_original + "\n")
-    # print("file_name_next: " + file_name_next + "\n")
-    #
-    # zip.printdir()
-    # file_name_next= zip.printdir()
-    # zip.extractall(path=file_name_next, pwd=file_name_original.encode())
-    # file_name_original = file_name_next
-    #
-    # print("file_name_original:  " + file_name_original + "\n")
-    # print("file_name_next: " + file_name_next + "\n")
